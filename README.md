@@ -1,7 +1,7 @@
 # Shashank's GitHub Pages Website
 
 This repository hosts my personal static website on **GitHub Pages** at:  
-➡ [**https://shashank.github.io**](https://shashank.github.io)
+➡ [**https://shashank.github.io**](https://sh111-a.github.io/shashank.github.io/)
 
 The site is built using **HTML, CSS, and JavaScript** and deployed directly from this repository’s `main` branch.
 
@@ -18,7 +18,7 @@ This is a simple static website containing:
 ## 🚀 How It Works
 1. The repository is named **`shashank.github.io`** (GitHub Pages requires this format for personal sites).
 2. Website files are stored in the root of the repo.
-3. GitHub Pages serves the site at [**https://shashank.github.io**](https://shashank.github.io).
+3. GitHub Pages serves the site at [**https://shashank.github.io**](https://sh111-a.github.io/shashank.github.io/).
 
 ---
 
@@ -39,7 +39,7 @@ GitHub Pages will rebuild and publish the updated site automatically within 1–
 ---
 
 ## 📧 Contact
-Email: [your-email@example.com](mailto:your-email@example.com)
+Email: [your-email@example.com](mailto:your-shashank@example.com)
 
 ---
 
